@@ -7,4 +7,4 @@ A company needs to develop a time management system for its executives. The soft
 
 Functional Requirements :
 
-![alt text](https://github.com/MercifulSamurai142/TMS/blob/master/functional_requirements_dark?raw=true)
+![alt text](https://github.com/MercifulSamurai142/TMS/blob/master/resource/functional_requirements_dark.png)
